@@ -7,5 +7,5 @@ int main()
 	//错误：不允许把多个短语句写在一行中 
 	if (a > b)
 		printf("a>b\n");
-    return 0;
+	return 0;
 }
