@@ -11,7 +11,7 @@ int main()
 	}
     else
 	{
-    	printf("这是小写字母，大写是%c",c - 32);
+		printf("这是小写字母，大写是%c",c - 32);
 	}
 	return 0;
 }
